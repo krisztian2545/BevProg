@@ -44,8 +44,3 @@ int main() {
   return 0;
 
 }
-/*
-cd Documents/Hülyeségek/BevProg/
-g++ labdapatt.cpp -o labdapatt
-./labdapatt
-*/
